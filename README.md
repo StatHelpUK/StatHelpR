@@ -1,2 +1,2 @@
 # stathelp
-Tools from stathelp.org (helping doctors to learn statistics)
+R package from stathelp.org (helping doctors to learn statistics)
